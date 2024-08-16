@@ -101,11 +101,11 @@ The Personal Care Record can be linked by NHS number and embedded within third-p
 
 The platform currently leverages a range of third-party software services, as set out below. 
 
-AWS (for hosting plus other optional plugins) 
-Apify (for scraping data using our bespoke Actor)
-Graphologi (for the curation of our taxonomies/knowledge graph)
-Google (for validation of postcode against latitude and longitude) 
-Chat GPT 4 (for checking of meaning in free text by leveraging our knowledge graph) 
-Contentful (for serving up blocks of content and support options in a modular and customisable way). 
+* AWS (for hosting plus other optional plugins) 
+* [Apify](https://apify.com/) (for scraping data using our bespoke Actor)
+* [Graphologi](https://graphologi.com/) (for the curation of our taxonomies/knowledge graph)
+* Google (for validation of postcode against latitude and longitude) 
+* Chat GPT 4 (for checking of meaning in free text by leveraging our knowledge graph) 
+* [Contentful](https://www.contentful.com/) (for serving up blocks of content and support options in a modular and customisable way).
 
 Plus other services as needed, such as for automated testing of code quality. 
